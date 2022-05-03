@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\amogh\\OneDrive\\Documents\\Java Projects\\apache-csv.jar",
+        "c:\\Users\\amogh\\OneDrive\\Documents\\Java Projects\\courserajava.jar",
+        "Recommendation Engine.jar"
+    ]
+}
