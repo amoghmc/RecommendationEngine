@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="753fccff-2089-42f4-8de5-7124e0290d7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recommendation Engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Recommendation Engine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/AllFilters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AllFilters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DirectorsFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DirectorsFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/EfficientRater.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/EfficientRater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FirstRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FirstRatings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FourthRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FourthRatings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/GenreFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GenreFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MinutesFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MinutesFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MovieDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MovieDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MovieRunnerAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MovieRunnerAverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MovieRunnerSimilarRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MovieRunnerSimilarRatings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MovieRunnerWithFilters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MovieRunnerWithFilters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PlainRater.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PlainRater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Rater.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Rater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/RaterDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RaterDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Rating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Rating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/RecommendationRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RecommendationRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recommender.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recommender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SecondRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SecondRatings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ThirdRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ThirdRatings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TrueFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TrueFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/YearAfterFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/YearAfterFilter.class" afterDir="false" />
-    </list>
+    <list default="true" id="753fccff-2089-42f4-8de5-7124e0290d7e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,21 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../courserajava.jar" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
